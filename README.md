@@ -3,9 +3,8 @@
 
 ### 完整项目获取
 
-通过网盘分享的文件：进销存管理系统
-
-链接: https://pan.baidu.com/s/1T5XqtQz4CL4FdFQBDvJaaQ?pwd=uef3 提取码: uef3
+通过网盘分享的文件：宠物领养系统
+链接: https://pan.baidu.com/s/1JqU7m8EGCJynlaCGhW40Nw?pwd=hkkz 提取码: hkkz 
 --来自百度网盘超级会员v3的分享
 
 ### 项目合集(项目不断更新中，包含java、vue、python、Android、微信小程序等项目)
